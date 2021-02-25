@@ -20,8 +20,7 @@ body {
   position: relative;
   background-image: url("background.jpg");
   background-attachment: scroll;
-  background-size: contain;
-  background-repeat: repeat-x;
+  background-size: cover;
   width: calc(100% - 40px);
   font-family: "Roboto";
   letter-spacing: -1px;
