@@ -24,6 +24,7 @@ body {
   background-position-x: 50%;
   width: calc(100% - 40px);
   font-family: "Roboto";
+  letter-spacing: -1px;
 }
 .head_div {
   position: relative;
