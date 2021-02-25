@@ -53,6 +53,7 @@ body {
   height: 42px;
   width: 100%;
   border-top: black solid;
+  border-width: 2px;
   display: flex;
   justify-content: space-between;
   align-items: center;
