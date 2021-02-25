@@ -21,7 +21,7 @@ body {
   background-image: url("background.jpg");
   /* background-repeat: no-repeat; */
   background-attachment: scroll;
-  background-size: contain;
+  background-size: cover;
   width: calc(100% - 40px);
   font-family: "Roboto";
 }
