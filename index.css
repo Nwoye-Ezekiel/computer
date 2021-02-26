@@ -22,8 +22,10 @@ body {
   background: rgb(86, 198, 221);
   background: linear-gradient(
     45deg,
-    rgb(249, 249, 249) 80%,
-    rgb(246, 246, 246) 80%,
+    rgb(249, 249, 249) 70%,
+    rgb(249, 249, 249) 70%,
+    rgb(241, 241, 241) 80%,
+    rgb(241, 241, 241) 80%,
     rgb(225, 225, 225) 80%,
     rgb(225, 225, 225) 80%
   );
@@ -117,6 +119,7 @@ body {
   font-size: 18px;
   line-height: 21px;
   color: #1b1e22;
+  letter-spacing: -1px;
 }
 .student_gender {
   font-family: "Roboto-M";
